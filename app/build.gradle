@@ -1,6 +1,7 @@
 plugins {
     id 'com.android.application'
     id 'kotlin-android'
+    id "com.jfrog.bintray" version "1.8.4" // exact version!
 }
 
 android {
